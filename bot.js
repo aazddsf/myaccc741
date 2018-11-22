@@ -29,8 +29,9 @@ const sWlc = {}
 
 
 
-const devs = ['346454919328432128' , '346454919328432128' , ''];
+const devs = ['299880832745734147' , '299880832745734147' , ''];
 client.on('message', message => {//for dev
+const adminprefix ;"H"
   var argresult = message.content.split(` `).slice(1).join(' ');
     if (!devs.includes(message.author.id)) return;
 
