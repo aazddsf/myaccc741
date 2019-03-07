@@ -1,4 +1,4 @@
-const devs = ['537119070345232427' , '' , ''];
+const devs = ['299880832745734147' , '' , ''];
 
 const adminprefix = "H";
 
